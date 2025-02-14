@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "BetaWiki ISO Search",
+  "version": "1.0",
+  "description": "Search the Internet Archive directly from the currently open BetaWiki page.",
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
