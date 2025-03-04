@@ -8,7 +8,7 @@ These extensions are not planned to be distributed through the Chrome Web Store.
 It should work on other Chromium-based browsers (such as Edge) as well as Chrome.
 
 # How to install
-*This method is the same for all extensions. *
+**This method is the same for all extensions.**
 ## Google Chrome
 1. Open the extensions page.
 1. Turn on "Developer mode" on the top right of the page.
