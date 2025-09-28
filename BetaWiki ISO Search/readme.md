@@ -14,4 +14,4 @@ Search the Internet Archive directly from the currently open BetaWiki page.
 * Do not click this extension on pages other than BetaWiki. Unexpected behavior may occur.
 
 # Disclaimer
-This extension is not made by BetaWiki or the Internet Archive.
+This extension is not created by or affiliated with BetaWiki or the Internet Archive.
